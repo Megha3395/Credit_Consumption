@@ -21,4 +21,4 @@ d. Model documentation with all the details
 
 e. Predicted values for customers where target variable having missing values
 
-https://drive.google.com/drive/folders/1s-5A4K_3ppB3M-Qpz_ghHoCnj5Vk3IL-?usp=sharing
+
